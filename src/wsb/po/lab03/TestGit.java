@@ -5,5 +5,8 @@ public class TestGit {
         System.out.println("Cześć GIT");
 
         System.out.println("zmiana");
+
+        System.out.println("zmiana z innego projektu");
+
     }
 }
